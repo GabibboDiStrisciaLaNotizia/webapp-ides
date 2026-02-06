@@ -72,7 +72,7 @@ L’utente può:
 ## ▶️ Avvio del progetto
 
 1. Clonare il repository.
-- git clone https://github.com/GabibboDiStrisciaLaNotizia/webapp-ides.git
+- git clone https://github.com/danstefanplantos/webapp-ides.git
 2. Aprire il file `index.html` con un browser.
 
 ---
